@@ -1,3 +1,47 @@
+
 article p {
     color: blue;
 }
+nav a {
+    border: 2px solid green;
+    margin-right: -2px;
+    margin-left: -2px;
+    color: black;
+    background-color: #808080;
+}
+html {
+    background-image: linear-gradient(270deg, lightblue, lightgreen, tomato);
+    font-family: "MinecraftiaRegular"; 
+}
+header {
+    text-align: center;
+}
+.foot {
+    margin-left: 40px;
+}
+.foo {
+    margin-left: 15px;
+}
+img#home {
+    margin-left: 542px;
+    margin-right: 500px;
+}
+img#ps4 {
+    margin-left: 605px;   
+    margin-right: 600px;
+}
+img#he {
+    margin-left: 612px;
+
+}
+img#bedrock {
+    margin-left: 560px;
+    margin-right: 550px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
